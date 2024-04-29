@@ -1,8 +1,7 @@
-Hi, I'm **littlemoji**. I am a JavaScript developer from China. 
+Hi, I'm **littlemoji**, a Front-end Development. 
 
-- 🌱 Currently a college student.
-- 🤔 I’m looking for help with internship opportunities.
-- 🌈 Love CSS.
-- ⚡ Fun fact: movie, music, Stardew Valley.
-- 🥰 Currently working on The Browser plugin.
-- ⭐ Powered by love
+- 🤔 Seeking full-time opportunities, contact: littlemoji@foxmail.com.
+- 🌈 Code cleaner 🧹.
+- ⚡ Fun fact: movie🎬, read📚, yoga🧘‍♀️, badminton🏸️.
+- 🥰 Currently working on performance optimization.
+- 🌟 Continuous learner and a great team player with a passion for front-end innovations.
